@@ -1,7 +1,7 @@
 {
   "name": "razor-atom-syntax-theme",
   "theme": "syntax",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Based on base16 tomorrow dark theme for Atom, with some slight changes (removed underline, changed wrap and indent colour)",
   "repository": "https://github.com/smiffy6969/razor-atom-syntax-theme.git",
   "license": "MIT",
