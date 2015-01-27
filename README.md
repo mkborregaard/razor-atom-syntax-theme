@@ -7,19 +7,19 @@ This theme is based on 'tomorrow' but with some slight changes to make clearer, 
 ## Screenshots
 
 LESS/CSS
-![alt tag](screenshots/razor-atom-syntax-theme-1.png)
+![alt tag](https://raw.githubusercontent.com/smiffy6969/razor-atom-syntax-theme/master/screenshots/razor-atom-syntax-theme-1.png)
 
 HTML with PHP
-![alt tag](screenshots/razor-atom-syntax-theme-2.png)
+![alt tag](https://raw.githubusercontent.com/smiffy6969/razor-atom-syntax-theme/master/screenshots/razor-atom-syntax-theme-2.png)
 
 HTML
-![alt tag](screenshots/razor-atom-syntax-theme-3.png)
+![alt tag](https://raw.githubusercontent.com/smiffy6969/razor-atom-syntax-theme/master/screenshots/razor-atom-syntax-theme-3.png)
 
 PHP
-![alt tag](screenshots/razor-atom-syntax-theme-4.png)
+![alt tag](https://raw.githubusercontent.com/smiffy6969/razor-atom-syntax-theme/master/screenshots/razor-atom-syntax-theme-4.png)
 
 JS
-![alt tag](screenshots/razor-atom-syntax-theme-5.png)
+![alt tag](https://raw.githubusercontent.com/smiffy6969/razor-atom-syntax-theme/master/screenshots/razor-atom-syntax-theme-5.png)
 
 ## Installation
 
