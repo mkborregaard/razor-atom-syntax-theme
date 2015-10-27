@@ -1,11 +1,11 @@
 {
-  "name": "razor-atom-syntax-theme",
+  "name": "tomorrow-night-bright-razor-atom-syntax-theme",
   "theme": "syntax",
-  "version": "2.2.3",
-  "description": "Based on base16 tomorrow dark theme for Atom, with some slight changes (removed underline, changed wrap and indent colour)",
-  "repository": "https://github.com/smiffy6969/razor-atom-syntax-theme.git",
+  "version": "1.0.0",
+  "description": "Based on the tomorrow night bright colors and the structure of the dark razor theme for Atom",
+  "repository": "https://github.com/mkborregaard/razor-atom-syntax-theme.git",
   "license": "MIT",
   "engines": {
-    "atom": ">0.49.0"
+    "atom": ">1.0.0"
   }
 }
