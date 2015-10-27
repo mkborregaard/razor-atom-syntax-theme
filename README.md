@@ -1,8 +1,8 @@
 # Tomorrow Night Bright Syntax Theme
 
-Atom theme based on the ever popular base16 tomorrow dark colors.
+Atom theme based on the awesome tomorrow night bright dark colors.
 
-This theme is based on 'tomorrow' but with some slight changes to make clearer, like removing underline, altering indent and wrap guide colours, more vibrant colours etc.
+This theme is based on the tomorrow night bright theme of rockymadden, but I have merged that with the code from the razor atom syntax theme because the atom (ink) console was not correctly colored.
 
 
 ## Installation
@@ -10,7 +10,9 @@ This theme is based on 'tomorrow' but with some slight changes to make clearer, 
 Run the following command:
 
 ```sh
-apm install tomorrow-night-bright-razor-atom-syntax-theme
+cd tomorrow-night-bright-razor-atom-syntax-theme
+apm install
+apm link .
 ```
 
 OR `View > Preferences > Install` and search for `tomorrow-night-bright-razor-atom-syntax-theme` and install.
